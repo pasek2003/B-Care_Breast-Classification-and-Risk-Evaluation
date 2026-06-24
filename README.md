@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://b-carebreast-classification-and-risk-evaluation-jmappukhmnegq9.streamlit.app/" target="_blank">
+  <a href="https://b-carebreast-classification-and-risk-evaluation-fy2nnh9chup36z.streamlit.app/" target="_blank">
     <b>🌐 Buka Aplikasi Streamlit</b>
   </a>
 </p>
