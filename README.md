@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bcare/bcare_streamlit_app/bcare_streamlit_app/Images/bcare_logo.png" width="220" alt="B-Care Logo">
+  <img src="bcare/bcare_streamlit_app/bcare_streamlit_app/images/bcare_logo.png" width="220" alt="B-Care Logo">
 </p>
 
 <h1 align="center">B-Care (Breast Classification and Risk Evaluation)</h1>
