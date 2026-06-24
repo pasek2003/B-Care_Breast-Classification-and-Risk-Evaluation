@@ -36,7 +36,7 @@ Aplikasi ini dibuat sebagai bagian dari Tugas Akhir dengan judul:
 
 Aplikasi dapat diakses melalui link berikut:
 
-🔗 **https://b-carebreast-classification-and-risk-evaluation-jmappukhmnegq9.streamlit.app/**
+🔗 **https://b-carebreast-classification-and-risk-evaluation-fy2nnh9chup36z.streamlit.app/**
 
 ---
 
